@@ -33,10 +33,6 @@ Praticar conceitos fundamentais do desenvolvimento front-end, como:
 - Responsividade
 - Organização e boas práticas de código
 
-🔗 Acesse o projeto
-
-(Adicione aqui o link do GitHub Pages depois que publicar)
-
 📌 Status do projeto
 
 ✅ Concluído
